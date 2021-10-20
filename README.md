@@ -1,2 +1,2 @@
-# moviee-recommendation
+# movie.recc
 Created with CodeSandbox
